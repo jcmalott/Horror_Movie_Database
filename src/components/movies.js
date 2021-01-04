@@ -1,0 +1,51 @@
+ // Daily:
+const ALIEN_VS_PREDATOR = 395;
+// Whats next
+const CUBE = 431;
+const JEEPERS_CREEPERS = 8922;
+const THE_THING = 1091;
+const nextMovies = [CUBE, JEEPERS_CREEPERS, THE_THING];
+// Random List
+const EVIL_DEAD = 109428;
+const MOVIE_1408 = 3021;
+const IT = 346364;
+const PREDATOR = 106;
+const DAWN_OF_THE_DEAD = 924;
+const AMERICAN_PSYCHO = 1359;
+const ourPicks = [EVIL_DEAD, MOVIE_1408, IT, PREDATOR, DAWN_OF_THE_DEAD, AMERICAN_PSYCHO];
+
+const SHAWMN_OF_THE_DEAD = 747;
+const TUCKER_DALE_VS_EVIL = 46838;
+const EVIL_DEAD_2 = 765;
+const ARMY_OF_DARKNESS = 766;
+const CABIN_IN_THE_WOODS = 22970;
+const SCARY_MOVIE = 4247;
+const funny = [SHAWMN_OF_THE_DEAD, TUCKER_DALE_VS_EVIL, EVIL_DEAD_2, ARMY_OF_DARKNESS,
+               CABIN_IN_THE_WOODS, SCARY_MOVIE];
+
+const TEXAS_CHAINSAW_MASSACRE_R = 9373;
+const TEXAS_CHAINSAW_MASSACRE = 16337;
+const FRIGHT_NIGHT_R = 58151;
+const FRIGHT_NIGHT = 11797;
+const POLTERGEIST_R = 243688;
+const POLTERGEIST = 609;
+const remake = [TEXAS_CHAINSAW_MASSACRE_R, TEXAS_CHAINSAW_MASSACRE, FRIGHT_NIGHT_R, FRIGHT_NIGHT,
+             POLTERGEIST_R, POLTERGEIST];
+
+const NIGHTMARE_ON_ELM_STREET = 10072;
+const THE_LOST_BOYS = 1547;
+const THE_SHINNING = 694;
+const HALLOWEEN = 948;
+const SILENCE_OF_THE_LAMBS = 274;
+const ALIEN = 348;
+const classic = [NIGHTMARE_ON_ELM_STREET, THE_LOST_BOYS, THE_SHINNING, SILENCE_OF_THE_LAMBS,
+              ALIEN, HALLOWEEN];
+
+export const movieLog = {
+  'daily': ALIEN_VS_PREDATOR,
+  'next': nextMovies,
+  'ourPicks': ourPicks,
+  'funny': funny,
+  'remake': remake,
+  'classic': classic
+}

@@ -1,0 +1,19 @@
+.container-search-title {
+  display: flex;
+  margin-top: 10px;
+}
+.container-search-title h1 {
+  margin: 7px 0 0;
+}
+.container-search-title p {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 200%;
+  font-weight: 400;
+  margin-left: 5px;
+  vertical-align: top;
+}
+.no-poster {
+  margin: 50% auto;
+  height: 100%;
+}
