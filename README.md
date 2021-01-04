@@ -21,3 +21,7 @@ For this project I first wanted to create the site using HTML. I then moved on t
 
 # Search Page  
 ![alt text](https://github.com/jcmalott/Horror_Movie_Database/blob/master/pictures/SearchPage.PNG)
+
+# Sketches  
+![alt text](https://github.com/jcmalott/Horror_Movie_Database/blob/master/pictures/Home_Page_Sketch.PNG)
+![alt text](https://github.com/jcmalott/Horror_Movie_Database/blob/master/pictures/View_Movie_Sketch.PNG)
